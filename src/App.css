@@ -23,6 +23,8 @@ body{
   -o-background-size: cover;
   background-size: cover;
   color: #000000;
+  min-width: 100%;
+  min-height: 100%;
 }
 #root{
   height: 100%;
