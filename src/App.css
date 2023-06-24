@@ -609,3 +609,10 @@ body{
   }
   
 }
+
+ /* CSS specific to iOS devices */ 
+@supports (-webkit-touch-callout: none) {
+  .root{
+    background-size: cover;
+  }
+}
