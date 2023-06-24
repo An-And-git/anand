@@ -509,7 +509,10 @@ body{
 */
 
 @media (min-width: 320px) and (max-width: 480px) {
-  
+
+  .root{
+    background-size: cover;
+  }
   div#home .row .col-md-1.col-12.my-auto{
     order: 1;
   }
