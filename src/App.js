@@ -189,8 +189,8 @@ const contact = [{
 {
   "contactid": 2,
   "name": "Mail",
-  "value": "anandhprabhu88@gmail.com",
-  "url": "mailto:anandhprabhu88@gmail.com",
+  "value": "anandhprabhu888@gmail.com",
+  "url": "mailto:anandhprabhu888@gmail.com",
   "icon": <FaEnvelopeOpenText/>
 },
 {
