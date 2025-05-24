@@ -77,18 +77,28 @@ const works = [
 
 const experience = [{
   "expid": 1,
+  "companyname": "Lennox India Technology Pvt Ltd",
+  "designation": "Senior Developer (2024 - 2025)",
+  "location": "Chennai, India"
+},{
+  "expid": 2,
+  "companyname": "HTC Global Services",
+  "designation": "Senior Engineer (2023 - 2024)",
+  "location": "Chennai, India"
+},{
+  "expid": 3,
   "companyname": "Verticurl (A WPP Company)",
   "designation": "Engineer Technology (2021 - 2023)",
   "location": "Coimbatore, India"
 },
 {
-  "expid": 2,
+  "expid": 4,
   "companyname": "Cap DigiSoft Solutions",
   "designation": "Web Designer (2018 - 2021)",
   "location": "Coimbatore, India"
 },
 {
-  "expid": 3,
+  "expid": 5,
   "companyname": "LookHear Creations",
   "designation": "Web Designer - Intern (2018)",
   "location": "Bangalore, India"
